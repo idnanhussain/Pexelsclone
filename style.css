@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-sizing: border-box;
+
+}
+
+.container {
+    background-image: url(images/pexels-photo-15814311\ \(1\).jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+    
+
+    
+}
+
+
+.navigationbar {
+    color: white;
+    display: block;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    
+    
+}
+
+.pexelslogo img {
+    width: 50px;
+    border-radius: 10px;
+ 
+}
+
+
+
+
+.headingmain {
+    
+
+    width: 750px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 13px;
+    font-family: 'Outfit', sans-serif;
+
+}
+
+
+.topnav-right{
+    float: right;
+    color: black;
+}
+
+.joinbutton {
+    color: rgb(18, 1, 1);
+    background: white;
+    padding: 20px 20px 20px 20px;
+    float: right;
+    border-radius: 5px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    font-size: 12px;
+    margin-top: 2px;
+    
+
+
+}
+
+
+.burgermenu {
+    color: white;
+    float: right;
+}
+
+.searchbar {
+    width: 500px;
+    height: 50px;
+    border: 4px solid transparent;
+    padding: 0px 10px;
+    border-radius: 10px;
+    padding: 0px 10px;
+
+
+
+    
+    
+}
+.trendingline {
+    color: grey;
+    border-color: red;
+    width: 100px;
+}
+
+
+
+.navbartwo {
+    color: red;
+    padding-top: 80px;
+    text-align: center;
+
+    font-size: 25px;
+    
+}
+.navbartwo a {
+    color: black;
+
+}
+.navbartwo a :hover {
+    background-color: red;
+}
+
+
+.wrapper {
+    font-size: 20px;
+    font-family: 'Outfit', sans-serif;
+    color: #2c343e;
+
+
+}
+
+.images-main{
+    width:100%;
+    /* border: 5px solid red; */
+    display: flex;
+    flex-wrap:wrap ;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+ .single-img { 
+    padding: 0 20px 20px;
+    margin-top: 10px;
+  
+}
+    
+
+
+
+
+
+
